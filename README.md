@@ -55,3 +55,7 @@ Program output:
 ```
 Password is valid
 ```
+
+## Metadata
+
+TAGS=[ruby, control-flow]
